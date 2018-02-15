@@ -14,6 +14,7 @@ namespace App1.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
+            // A harmless comment
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 
